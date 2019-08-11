@@ -1,0 +1,24 @@
+body{
+    background : url(jw.png) no-repeat center center fixed;
+    background-size:cover;
+    
+}
+h2
+{
+    font-family: 'Lobster', cursive;
+}
+h3
+{
+    font-family: 'Lobster', cursive;
+}
+#timeImg
+{
+    height: 350px;
+    width : 550px;
+}
+#displayClock
+{
+    font-family: 'Saira Stencil One';
+    color: black;
+    font-size:55px;
+}
